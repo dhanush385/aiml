@@ -1,4 +1,8 @@
 hiii
 welcome to AIML
 i am in SDN
+<<<<<<< HEAD
 hiiiiiiii
+=======
+i am in auth
+>>>>>>> auth
